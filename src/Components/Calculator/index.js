@@ -3,7 +3,7 @@ import { Button } from "./Button";
 
 export const Calculator = () => {
   const operators = ["%", "/", "*", "-", "+"];
-
+  //Buttons for operator
   const buttons = [
     {
       className: "ac",
